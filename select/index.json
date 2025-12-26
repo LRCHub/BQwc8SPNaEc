@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "泡唄",
+  "base_artist": "モモチ(CV.豊永利行)",
+  "createdAt": "2025-12-26T04:21:53.217727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "泡唄",
+      "artist": "モモチ(CV.豊永利行)",
+      "has_synced": true,
+      "path": "select/01_泡唄_モモチ(CV.豊永利行).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡唄",
+      "artist": "モモチ (CV.豊永利行)",
+      "has_synced": false,
+      "path": "select/pl_01_泡唄_モモチ_(CV.豊永利行).txt"
+    }
+  ]
+}
